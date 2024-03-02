@@ -1,16 +1,22 @@
-### Hi there 👋
+### Oi, meu nome é Vitor Hugo, seja bem vindo ao meu perfil! 👋
 
-<!--
-**vitorvhsilva/vitorvhsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Atualmente estudo na FIAP no Curso Superior de Análise e Desenvolvimento de Sistemas. 👾
+- E sou estudante do Instituto PROA, estudando no curso de Full Stack Web Development de Java! ⛵
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/vitorvhsilva"></a>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorvhsilva&theme=tokyonight&show_icons=false">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorvhsilva&theme=tokyonight&langs_count=8"> -->
+</div>
+
+<div style="display: flex;">
+  <img align="center" height="60px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+  <img align="center" height="60px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" height="60px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+  <img align="center" height="60px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" height="60px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" height="60px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" height="60px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />        
+</div>
