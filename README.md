@@ -1,8 +1,7 @@
 ### Oi, meu nome é Vitor Hugo, seja bem vindo ao meu perfil! 👋
 
-- Formado em Programação de Jogos Digitais pela ETEC. 🎮
+- Formado em Programação de Jogos Digitais pela ETEC, e em Full Stack Web Development Java pelo Instituto PROA! ⛵ 
 - Atualmente estudo na FIAP no Curso Superior de Análise e Desenvolvimento de Sistemas. 👾
-- E sou estudante do Instituto PROA, estudando no curso de Full Stack Web Development de Java! ⛵
 
 ##
 
