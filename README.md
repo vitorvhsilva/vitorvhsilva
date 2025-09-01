@@ -3,7 +3,7 @@
 
 <p>🎓 Formado em Full Stack Web Development Java pelo <a href="https://www.proa.org.br/">Instituto PROA</a> e <a href="https://www.sp.senac.br/">SENAC</a></p>
 <p>👾 Me graduando em Análise e Desenvolvimento de Sistemas pela <a href="https://www.fiap.com.br/">FIAP</a></p>
-<p>☁️ 1x <a href="https://aws.amazon.com/pt/">AWS</a> Certified</p>
+<p>☁️ 2x <a href="https://aws.amazon.com/pt/">AWS</a> Certified</p>
 
 ##
 
