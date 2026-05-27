@@ -1,4 +1,4 @@
-<p>3x <a href="https://aws.amazon.com/pt/">AWS</a> Certified</p>
+<p>4x <a href="https://aws.amazon.com/pt/">AWS</a> Certified</p>
 
 ##
 
